@@ -10,7 +10,7 @@ The analysis focuses on:
 The goal is to provide a clear understanding of the **current AI job landscape** and its **compensation trends**.
 
 ---
-## [Download cleaned dataset](./data/ai_jobs_clean.csv)
+## [Download cleaned dataset](./data/ai_job_dataset_cleaned)
 
 ## Dashboards
 
