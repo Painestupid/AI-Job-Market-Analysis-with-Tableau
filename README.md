@@ -1,6 +1,6 @@
-# 📊 AI Job Market Analysis with Tableau
+# AI Job Market Analysis with Tableau
 
-## 🚀 Introduction
+## Introduction
 This project explores the **AI job market** using interactive **Tableau dashboards**.  
 The analysis focuses on:
 - Job distribution across industries, countries, and work types  
@@ -11,7 +11,7 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 
 ---
 
-## 📊 Dashboards
+## Dashboards
 
 ### 1. AI Job Market Overview
 - Total jobs, companies, and countries  
@@ -20,7 +20,7 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 - Work type analysis (Hybrid, On-site, Remote)  
 - Monthly AI job posting trends  
 
-![AI Job Market Overview](link-to-dashboard1-image.png)
+![AI Job Market Overview](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Screenshot%202025-08-25%20120859.png)
 
 ---
 
@@ -34,12 +34,12 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 
 ---
 
-## 🔗 View Online
-👉 [Explore the dashboards on Tableau Public](https://public.tableau.com/views/your_dashboard_link)  
+## View Online
+ [Explore the dashboards on Tableau Public](https://public.tableau.com/views/your_dashboard_link)  
 
 ---
 
-## 💾 Download & Usage
+## Download & Usage
 To explore the dashboards locally:  
 1. Download the `.twbx` file from this repository.  
 2. Open it using **Tableau Desktop** or **Tableau Reader** (free).  
