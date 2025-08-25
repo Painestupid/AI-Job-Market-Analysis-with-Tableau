@@ -20,7 +20,7 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 - Work type analysis (Hybrid, On-site, Remote)  
 - Monthly AI job posting trends  
 
-![AI Job Market Overview](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Screenshot%202025-08-25%20120859.png)
+![AI Job Market Overview](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Screenshot%202025-08-25%20120841.png)
 
 ---
 
