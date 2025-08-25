@@ -30,7 +30,7 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 - Average salary by company size and country  
 - Global salary trends visualization  
 
-![AI Job Market: Salary & Work Trends](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Screenshot%202025-08-25%20121806.png)
+![AI Job Market: Salary & Work Trends](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Screenshot%202025-08-25%20120859.png)
 
 ---
 
