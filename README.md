@@ -35,7 +35,7 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 
 ---
  
-## [Dashboard Deatil]()
+## [Dashboard Deatil](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/Report.docx)
   
 ---
 ## View Online
