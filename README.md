@@ -35,6 +35,10 @@ The goal is to provide a clear understanding of the **current AI job landscape**
 
 ---
 
+### Dashboard Detail
+[Dashboard Detail](https://public.tableau.com/app/profile/l.u.hi.u/viz/Project_17561069314550/Dashboard2AIJobMarketSalaryWorkTrendsAnalysis?publish=yes)  
+
+---
 ## View Online
  [Explore the dashboards on Tableau Public](https://public.tableau.com/app/profile/l.u.hi.u/viz/Project_17561069314550/Dashboard2AIJobMarketSalaryWorkTrendsAnalysis?publish=yes)  
 
