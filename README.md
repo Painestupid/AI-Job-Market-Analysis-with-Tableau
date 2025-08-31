@@ -10,7 +10,7 @@ The analysis focuses on:
 The goal is to provide a clear understanding of the **current AI job landscape** and its **compensation trends**.
 
 ---
-## [Data Processing Code](./ai_job_dataset_cleaned.csv)
+## [Data Processing Code](https://github.com/Painestupid/AI-Job-Market-Analysis-with-Tableau/blob/main/CODE.ipynb)
 
 ## [Download cleaned dataset](./ai_job_dataset_cleaned.csv)
 
